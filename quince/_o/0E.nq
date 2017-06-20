@@ -1,1 +1,6 @@
-﻿
+﻿<http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_10> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv/metadata>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_1036> <http://datadock.io/ddy1234/jkan/id/definition/value> "11154"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_1373> <http://datadock.io/ddy1234/jkan/id/definition/value> "79000"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_1989> <http://datadock.io/ddy1234/jkan/id/definition/value> "103000"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_267> <http://datadock.io/ddy1234/jkan/id/definition/value> "13193"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_891> <http://datadock.io/ddy1234/jkan/id/definition/value> "8306"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.

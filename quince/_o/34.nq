@@ -1,1 +1,7 @@
-﻿
+﻿<http://datadock.io/ddy1234/jkan/id/definition/metric_secondary> <http://www.w3.org/2000/01/rdf-schema#label> "Metric_Secondary"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/ddy1234/jkan/definitions>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_1429> <http://datadock.io/ddy1234/jkan/id/definition/value> "28000"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_1791> <http://datadock.io/ddy1234/jkan/id/definition/value> "11846"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_1914> <http://datadock.io/ddy1234/jkan/id/definition/value> "96297"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_484> <http://datadock.io/ddy1234/jkan/id/definition/value> "24600"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_532> <http://datadock.io/ddy1234/jkan/id/definition/value> "18216"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_833> <http://datadock.io/ddy1234/jkan/id/definition/value> "14560"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.

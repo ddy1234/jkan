@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/ddy1234/jkan/id/definition/bays> <http://www.w3.org/2000/01/rdf-schema#label> "BAYS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/ddy1234/jkan/definitions>.
+<http://datadock.io/ddy1234/jkan/id/resource/Admissions%202016.csv/row_1470> <http://datadock.io/ddy1234/jkan/id/definition/value> "108181"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Admissions%202016.csv>.
