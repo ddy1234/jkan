@@ -1,0 +1,2 @@
+﻿<http://datadock.io/ddy1234/jkan/id/resource/Bristol_Monuments.csv/row_1797> <http://datadock.io/ddy1234/jkan/id/definition/postal_address> "Bridge Street"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/ddy1234/jkan/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Bristol_Monuments.csv/row_20> <http://datadock.io/ddy1234/jkan/id/definition/known_as> "Church of St. Mary-le-Port"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/ddy1234/jkan/id/dataset/Bristol_Monuments.csv>.

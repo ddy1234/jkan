@@ -1,0 +1,2 @@
+﻿<http://datadock.io/ddy1234/jkan/id/resource/Bristol_Monuments.csv/row_1448> <http://datadock.io/ddy1234/jkan/id/definition/location_1> "(51.460857, -2.6253226)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/ddy1234/jkan/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Bristol_Monuments.csv/row_3243> <http://datadock.io/ddy1234/jkan/id/definition/easting> "360192"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Bristol_Monuments.csv>.

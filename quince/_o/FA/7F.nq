@@ -1,0 +1,2 @@
+﻿<http://datadock.io/ddy1234/jkan/id/resource/Bristol_Monuments.csv/row_3387> <http://datadock.io/ddy1234/jkan/id/definition/construction> "1828"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Bristol_Monuments.csv/row_3594> <http://datadock.io/ddy1234/jkan/id/definition/location_1> "(51.492465, -2.5645816)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/ddy1234/jkan/id/dataset/Bristol_Monuments.csv>.

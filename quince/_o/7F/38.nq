@@ -1,0 +1,2 @@
+﻿<http://datadock.io/ddy1234/jkan/id/resource/Bristol_Monuments.csv/row_2583> <http://datadock.io/ddy1234/jkan/id/definition/monument_record_no> "2786M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/ddy1234/jkan/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/ddy1234/jkan/id/resource/Bristol_Monuments.csv/row_3601> <http://datadock.io/ddy1234/jkan/id/definition/construction> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/ddy1234/jkan/id/dataset/Bristol_Monuments.csv>.
